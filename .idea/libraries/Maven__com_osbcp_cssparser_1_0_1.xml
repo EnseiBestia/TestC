@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.osbcp:cssparser:1.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../mvn-repository/com/osbcp/cssparser/1.0.1/cssparser-1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../mvn-repository/com/osbcp/cssparser/1.0.1/cssparser-1.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../mvn-repository/com/osbcp/cssparser/1.0.1/cssparser-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
