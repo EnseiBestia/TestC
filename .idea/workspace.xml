@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4560bbc2-f68a-4549-88f5-1a531a66aa2b" name="Default" comment="" />
+    <list default="true" id="4560bbc2-f68a-4549-88f5-1a531a66aa2b" name="Default" comment="first commit">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/netspider/Demo.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/TestC.iml" afterPath="$PROJECT_DIR$/TestC.iml" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/target/classes/office/html2xls/Html2Excel.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/office/html2xls/RuntimeTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/office/htmlparse/HtmlParse.class" afterPath="" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,44 +25,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="Demo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/netspider/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="25" column="34" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HtmlParse.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/office/htmlparse/HtmlParse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-285">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Html2Excel.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/office/html2xls/Html2Excel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="34" column="69" lean-forward="true" selection-start-line="34" selection-start-column="69" selection-end-line="34" selection-end-column="69" />
+            <state relative-caret-position="209">
+              <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#635#636#0" expanded="true" />
+                <element signature="e#663#664#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="convers.vbs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/convers.vbs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="26" column="12" lean-forward="false" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -69,6 +53,9 @@
       <find>CurrentDirectory</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -82,14 +69,17 @@
         <option value="$PROJECT_DIR$/src/main/java/excel/Html2Excel.java" />
         <option value="$PROJECT_DIR$/src/main/java/excel/Html2ExcelTool.java" />
         <option value="$PROJECT_DIR$/src/main/java/excel/1.html" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/1.html" />
         <option value="$PROJECT_DIR$/src/main/java/htmlparse/HtmlParse.java" />
         <option value="$PROJECT_DIR$/src/main/java/runtime/RuntimeTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/runtime/Html2Excel.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/convers.vbs" />
         <option value="$PROJECT_DIR$/src/main/java/html2xls/Html2Excel.java" />
         <option value="$PROJECT_DIR$/src/main/java/office/html2xls/Html2Excel.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/convers.vbs" />
+        <option value="$PROJECT_DIR$/src/main/java/netspider/Demo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/office/docx4j/test3.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/office/docx4j/Dct1.java" />
       </list>
     </option>
   </component>
@@ -112,11 +102,13 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="391" />
-    <option name="y" value="228" />
-    <option name="width" value="1260" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
     <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -133,6 +125,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,56 +149,47 @@
               <item name="TestC" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="VBA" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TestC" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestC" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="office" type="462c0819:PsiDirectoryNode" />
+              <item name="VBA" type="462c0819:PsiDirectoryNode" />
+              <item name="CopyDataFromXls2Word" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TestC" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestC" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="office" type="462c0819:PsiDirectoryNode" />
-              <item name="html2xls" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestC" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\mygit\TestC\src\main\VBA\CopyDataFromXls2Word" />
+      <recent name="D:\code\mygit\TestC\src\main\java\office\docx4j" />
       <recent name="D:\code\ideaspace\TestC\src\main\resources" />
     </key>
   </component>
@@ -221,13 +205,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Demo">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="netspider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="netspider.Demo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="TestC" />
+      <envs />
     </configuration>
     <configuration name="Html2Excel" type="Application" factoryName="Application" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
@@ -360,10 +363,15 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.Html2Excel" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Demo" />
+    </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.Html2Excel" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.Demo" />
         <item index="1" class="java.lang.String" itemvalue="Application.Html2Excel" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Html2Excel" />
       </list>
     </recent_temporary>
   </component>
@@ -391,41 +399,66 @@
       <workItem from="1516098223594" duration="876000" />
       <workItem from="1516153289101" duration="4210000" />
       <workItem from="1516244181217" duration="12055000" />
+      <workItem from="1516272379153" duration="330000" />
+      <workItem from="1516949310473" duration="748000" />
+      <workItem from="1516955808824" duration="1188000" />
+      <workItem from="1517136245123" duration="86000" />
+      <workItem from="1517205965248" duration="1418000" />
+      <workItem from="1517290686425" duration="2844000" />
+      <workItem from="1517799428969" duration="832000" />
+      <workItem from="1518162733828" duration="1850000" />
+      <workItem from="1519350470565" duration="1391000" />
+      <workItem from="1520319054797" duration="1861000" />
+      <workItem from="1522217066717" duration="4115000" />
+      <workItem from="1522575621636" duration="202000" />
+      <workItem from="1522575847661" duration="336000" />
+      <workItem from="1522638930383" duration="4893000" />
+      <workItem from="1523789227056" duration="3000" />
+      <workItem from="1524537960305" duration="5956000" />
+      <workItem from="1524635381859" duration="2522000" />
+      <workItem from="1524710630496" duration="532000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1522575954917</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1522575954917</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58967000" />
+    <option name="totallyTimeSpent" value="90074000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32575756" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4934066" sideWeight="0.51750547" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.055434782" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41675735" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4934066" sideWeight="0.48249453" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1641791" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5393873" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45005488" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45005488" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32575756" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -464,6 +497,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -537,39 +574,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/office/htmlparse/HtmlParse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/office/html2xls/Html2Excel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="30" column="67" lean-forward="false" selection-start-line="30" selection-start-column="67" selection-end-line="30" selection-end-column="67" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/convers_old.vbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/convers.vbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
@@ -603,7 +607,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -620,7 +623,7 @@
         <state relative-caret-position="874">
           <caret line="46" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -729,14 +732,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/htmlparse.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/runtime.java" />
     <entry file="file://$PROJECT_DIR$/src/main/1.html" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="34" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/excel/Html2ExcelTool.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/excel/Html2Excel.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/excel/ExcelReader.java" />
@@ -748,13 +743,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/convers_old.vbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/target/classes/convers.vbs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -762,31 +750,413 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/convers.vbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="12" lean-forward="false" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/office/htmlparse/HtmlParse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-285">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="114">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/office/html2xls/Html2Excel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="34" column="69" lean-forward="true" selection-start-line="34" selection-start-column="69" selection-end-line="34" selection-end-column="69" />
+        <state relative-caret-position="646">
+          <caret line="34" column="69" lean-forward="false" selection-start-line="34" selection-start-column="69" selection-end-line="34" selection-end-column="69" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/convers_old.vbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/convers.vbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="12" lean-forward="false" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/cre.test:TestC:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>cre.test:TestC:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="919.5" y="510.0">cre.test:TestC:1.0-SNAPSHOT</node>
+            <node x="1752.0" y="430.0">org.apache.poi:poi-ooxml:jar:3.15</node>
+            <node x="2002.980894308943" y="320.0">org.apache.poi:poi-ooxml:jar:3.15/org.apache.poi:poi:jar:3.15</node>
+            <node x="2043.5000000000002" y="240.0">org.apache.poi:poi-ooxml:jar:3.15/org.apache.poi:poi:jar:3.15/commons-codec:commons-codec:jar:1.10</node>
+            <node x="1861.5000000000002" y="240.0">org.apache.poi:poi-ooxml:jar:3.15/org.apache.poi:poi:jar:3.15/org.apache.commons:commons-collections4:jar:4.1</node>
+            <node x="1724.5" y="320.0">org.apache.poi:poi-ooxml:jar:3.15/org.apache.poi:poi-ooxml-schemas:jar:3.15</node>
+            <node x="1754.5" y="240.0">org.apache.poi:poi-ooxml:jar:3.15/org.apache.poi:poi-ooxml-schemas:jar:3.15/org.apache.xmlbeans:xmlbeans:jar:2.6.0</node>
+            <node x="1759.0" y="160.0">org.apache.poi:poi-ooxml:jar:3.15/org.apache.poi:poi-ooxml-schemas:jar:3.15/org.apache.xmlbeans:xmlbeans:jar:2.6.0/stax:stax-api:jar:1.0.1</node>
+            <node x="1617.5" y="320.0">org.apache.poi:poi-ooxml:jar:3.15/com.github.virtuald:curvesapi:jar:1.04</node>
+            <node x="895.5" y="430.0">uk.co.certait:html-exporter:jar:0.3.4</node>
+            <node x="388.00000000000006" y="240.0">uk.co.certait:html-exporter:jar:0.3.4/commons-io:commons-io:jar:2.1</node>
+            <node x="1505.5" y="320.0">uk.co.certait:html-exporter:jar:0.3.4/org.apache.poi:poi-ooxml:jar:3.9</node>
+            <node x="1421.5" y="320.0">uk.co.certait:html-exporter:jar:0.3.4/org.jsoup:jsoup:jar:1.6.3</node>
+            <node x="1255.5" y="320.0">uk.co.certait:html-exporter:jar:0.3.4/commons-beanutils:commons-beanutils:jar:1.8.3</node>
+            <node x="1259.0" y="240.0">uk.co.certait:html-exporter:jar:0.3.4/commons-beanutils:commons-beanutils:jar:1.8.3/commons-logging:commons-logging:jar:1.1.1</node>
+            <node x="1116.5" y="320.0">uk.co.certait:html-exporter:jar:0.3.4/commons-lang:commons-lang:jar:2.6</node>
+            <node x="941.5" y="320.0">uk.co.certait:html-exporter:jar:0.3.4/commons-collections:commons-collections:jar:3.2.2</node>
+            <node x="846.5" y="320.0">uk.co.certait:html-exporter:jar:0.3.4/org.apache.velocity:velocity:jar:1.7</node>
+            <node x="885.0" y="240.0">uk.co.certait:html-exporter:jar:0.3.4/org.apache.velocity:velocity:jar:1.7/commons-collections:commons-collections:jar:3.2.1</node>
+            <node x="746.0" y="240.0">uk.co.certait:html-exporter:jar:0.3.4/org.apache.velocity:velocity:jar:1.7/commons-lang:commons-lang:jar:2.4</node>
+            <node x="574.25" y="320.0">uk.co.certait:html-exporter:jar:0.3.4/org.xhtmlrenderer:flying-saucer-pdf:jar:9.0.4</node>
+            <node x="670.0" y="240.0">uk.co.certait:html-exporter:jar:0.3.4/org.xhtmlrenderer:flying-saucer-pdf:jar:9.0.4/com.lowagie:itext:jar:2.1.7</node>
+            <node x="891.4430894308945" y="160.0">uk.co.certait:html-exporter:jar:0.3.4/org.xhtmlrenderer:flying-saucer-pdf:jar:9.0.4/com.lowagie:itext:jar:2.1.7/bouncycastle:bcmail-jdk14:jar:138</node>
+            <node x="643.0" y="160.0">uk.co.certait:html-exporter:jar:0.3.4/org.xhtmlrenderer:flying-saucer-pdf:jar:9.0.4/com.lowagie:itext:jar:2.1.7/bouncycastle:bcprov-jdk14:jar:138</node>
+            <node x="432.00000000000006" y="160.0">uk.co.certait:html-exporter:jar:0.3.4/org.xhtmlrenderer:flying-saucer-pdf:jar:9.0.4/com.lowagie:itext:jar:2.1.7/org.bouncycastle:bctsp-jdk14:jar:1.38</node>
+            <node x="427.50000000000006" y="0.0">uk.co.certait:html-exporter:jar:0.3.4/org.xhtmlrenderer:flying-saucer-pdf:jar:9.0.4/com.lowagie:itext:jar:2.1.7/org.bouncycastle:bctsp-jdk14:jar:1.38/org.bouncycastle:bcprov-jdk14:jar:1.38</node>
+            <node x="397.00000000000006" y="80.0">uk.co.certait:html-exporter:jar:0.3.4/org.xhtmlrenderer:flying-saucer-pdf:jar:9.0.4/com.lowagie:itext:jar:2.1.7/org.bouncycastle:bctsp-jdk14:jar:1.38/org.bouncycastle:bcmail-jdk14:jar:1.38</node>
+            <node x="513.0" y="240.0">uk.co.certait:html-exporter:jar:0.3.4/org.xhtmlrenderer:flying-saucer-pdf:jar:9.0.4/org.xhtmlrenderer:flying-saucer-core:jar:9.0.4</node>
+            <node x="284.3619918699187" y="320.0">uk.co.certait:html-exporter:jar:0.3.4/com.osbcp:cssparser:jar:1.0.1</node>
+            <node x="312.0" y="240.0">uk.co.certait:html-exporter:jar:0.3.4/com.osbcp:cssparser:jar:1.0.1/asm:asm:jar:3.1</node>
+            <node x="236.0" y="240.0">uk.co.certait:html-exporter:jar:0.3.4/com.osbcp:cssparser:jar:1.0.1/junit:junit:jar:4.11</node>
+            <node x="206.0" y="160.0">uk.co.certait:html-exporter:jar:0.3.4/com.osbcp:cssparser:jar:1.0.1/junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="64.75" y="320.0">uk.co.certait:html-exporter:jar:0.3.4/org.apache.odftoolkit:simple-odf:jar:0.7-incubating</node>
+            <node x="8.75" y="240.0">uk.co.certait:html-exporter:jar:0.3.4/org.apache.odftoolkit:simple-odf:jar:0.7-incubating/org.apache.odftoolkit:odfdom-java:jar:0.8.8-incubating</node>
+            <node x="0.0" y="160.0">uk.co.certait:html-exporter:jar:0.3.4/org.apache.odftoolkit:simple-odf:jar:0.7-incubating/org.apache.odftoolkit:odfdom-java:jar:0.8.8-incubating/org.apache.odftoolkit:taglets:jar:0.8.8-incubating</node>
+            <node x="91.0" y="160.0">uk.co.certait:html-exporter:jar:0.3.4/org.apache.odftoolkit:simple-odf:jar:0.7-incubating/xerces:xercesImpl:jar:2.9.1</node>
+            <node x="98.0" y="80.0">uk.co.certait:html-exporter:jar:0.3.4/org.apache.odftoolkit:simple-odf:jar:0.7-incubating/xerces:xercesImpl:jar:2.9.1/xml-apis:xml-apis:jar:1.3.04</node>
+            <node x="811.5" y="430.0">org.jsoup:jsoup:jar:1.8.3</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.apache.poi:poi-ooxml:jar:3.15/org.apache.poi:poi-ooxml-schemas:jar:3.15/org.apache.xmlbeans:xmlbeans:jar:2.6.0" target="org.apache.poi:poi-ooxml:jar:3.15/org.apache.poi:poi-ooxml-schemas:jar:3.15/org.apache.xmlbeans:xmlbeans:jar:2.6.0/stax:stax-api:jar:1.0.1">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="uk.co.certait:html-exporter:jar:0.3.4/org.apache.odftoolkit:simple-odf:jar:0.7-incubating" target="uk.co.certait:html-exporter:jar:0.3.4/org.apache.odftoolkit:simple-odf:jar:0.7-incubating/org.apache.odftoolkit:odfdom-java:jar:0.8.8-incubating">
+              <point x="-23.75" y="-15.0" />
+              <point x="88.5" y="295.0" />
+              <point x="62.25" y="295.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="uk.co.certait:html-exporter:jar:0.3.4/org.apache.velocity:velocity:jar:1.7" target="uk.co.certait:html-exporter:jar:0.3.4/org.apache.velocity:velocity:jar:1.7/commons-collections:commons-collections:jar:3.2.1">
+              <point x="18.75" y="-15.0" />
+              <point x="902.75" y="295.0" />
+              <point x="962.5" y="295.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="uk.co.certait:html-exporter:jar:0.3.4" target="uk.co.certait:html-exporter:jar:0.3.4/commons-io:commons-io:jar:2.1">
+              <point x="-28.0" y="-15.0" />
+              <point x="923.5" y="390.0" />
+              <point x="466.75000000000006" y="390.0" />
+              <point x="26.25" y="15.0" />
+            </edge>
+            <edge source="uk.co.certait:html-exporter:jar:0.3.4/com.osbcp:cssparser:jar:1.0.1" target="uk.co.certait:html-exporter:jar:0.3.4/com.osbcp:cssparser:jar:1.0.1/junit:junit:jar:4.11">
+              <point x="-29.333333333333258" y="-15.0" />
+              <point x="299.02865853658545" y="295.0" />
+              <point x="264.0" y="295.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="uk.co.certait:html-exporter:jar:0.3.4/org.xhtmlrenderer:flying-saucer-pdf:jar:9.0.4/com.lowagie:itext:jar:2.1.7/org.bouncycastle:bctsp-jdk14:jar:1.38" target="uk.co.certait:html-exporter:jar:0.3.4/org.xhtmlrenderer:flying-saucer-pdf:jar:9.0.4/com.lowagie:itext:jar:2.1.7/org.bouncycastle:bctsp-jdk14:jar:1.38/org.bouncycastle:bcprov-jdk14:jar:1.38">
+              <point x="25.25" y="-15.0" />
+              <point x="507.75000000000006" y="135.0" />
+              <point x="514.5" y="135.0" />
+              <point x="514.5" y="55.0" />
+              <point x="510.00000000000006" y="55.0" />
+              <point x="27.5" y="15.0" />
+            </edge>
+            <edge source="uk.co.certait:html-exporter:jar:0.3.4/com.osbcp:cssparser:jar:1.0.1/junit:junit:jar:4.11" target="uk.co.certait:html-exporter:jar:0.3.4/com.osbcp:cssparser:jar:1.0.1/junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="uk.co.certait:html-exporter:jar:0.3.4/com.osbcp:cssparser:jar:1.0.1" target="uk.co.certait:html-exporter:jar:0.3.4/commons-io:commons-io:jar:2.1">
+              <point x="29.333333333333258" y="-15.0" />
+              <point x="357.69532520325197" y="295.0" />
+              <point x="414.25000000000006" y="295.0" />
+              <point x="-26.25" y="15.0" />
+            </edge>
+            <edge source="org.apache.poi:poi-ooxml:jar:3.15" target="org.apache.poi:poi-ooxml:jar:3.15/org.apache.poi:poi-ooxml-schemas:jar:3.15">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="uk.co.certait:html-exporter:jar:0.3.4" target="uk.co.certait:html-exporter:jar:0.3.4/org.apache.poi:poi-ooxml:jar:3.9">
+              <point x="50.40000000000009" y="-15.0" />
+              <point x="1001.9000000000001" y="410.0" />
+              <point x="1551.5" y="410.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="uk.co.certait:html-exporter:jar:0.3.4/org.xhtmlrenderer:flying-saucer-pdf:jar:9.0.4/com.lowagie:itext:jar:2.1.7/org.bouncycastle:bctsp-jdk14:jar:1.38/org.bouncycastle:bcmail-jdk14:jar:1.38" target="uk.co.certait:html-exporter:jar:0.3.4/org.xhtmlrenderer:flying-saucer-pdf:jar:9.0.4/com.lowagie:itext:jar:2.1.7/org.bouncycastle:bctsp-jdk14:jar:1.38/org.bouncycastle:bcprov-jdk14:jar:1.38">
+              <point x="0.0" y="-15.0" />
+              <point x="450.50000000000006" y="55.0" />
+              <point x="455.00000000000006" y="55.0" />
+              <point x="-27.5" y="15.0" />
+            </edge>
+            <edge source="uk.co.certait:html-exporter:jar:0.3.4" target="uk.co.certait:html-exporter:jar:0.3.4/commons-beanutils:commons-beanutils:jar:1.8.3">
+              <point x="28.0" y="-15.0" />
+              <point x="979.5" y="390.0" />
+              <point x="1328.5" y="390.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.poi:poi-ooxml:jar:3.15/org.apache.poi:poi:jar:3.15" target="org.apache.poi:poi-ooxml:jar:3.15/org.apache.poi:poi:jar:3.15/commons-codec:commons-codec:jar:1.10">
+              <point x="12.75" y="-15.0" />
+              <point x="2041.230894308943" y="295.0" />
+              <point x="2108.0" y="295.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="uk.co.certait:html-exporter:jar:0.3.4" target="uk.co.certait:html-exporter:jar:0.3.4/commons-lang:commons-lang:jar:2.6">
+              <point x="16.799999999999955" y="-15.0" />
+              <point x="968.3" y="380.0" />
+              <point x="1176.0" y="380.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="uk.co.certait:html-exporter:jar:0.3.4/org.xhtmlrenderer:flying-saucer-pdf:jar:9.0.4/com.lowagie:itext:jar:2.1.7/org.bouncycastle:bctsp-jdk14:jar:1.38" target="uk.co.certait:html-exporter:jar:0.3.4/org.xhtmlrenderer:flying-saucer-pdf:jar:9.0.4/com.lowagie:itext:jar:2.1.7/org.bouncycastle:bctsp-jdk14:jar:1.38/org.bouncycastle:bcmail-jdk14:jar:1.38">
+              <point x="-25.25" y="-15.0" />
+              <point x="457.25000000000006" y="135.0" />
+              <point x="450.50000000000006" y="135.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="uk.co.certait:html-exporter:jar:0.3.4" target="uk.co.certait:html-exporter:jar:0.3.4/com.osbcp:cssparser:jar:1.0.1">
+              <point x="-39.200000000000045" y="-15.0" />
+              <point x="912.3" y="400.0" />
+              <point x="328.3619918699187" y="400.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="uk.co.certait:html-exporter:jar:0.3.4/org.xhtmlrenderer:flying-saucer-pdf:jar:9.0.4/com.lowagie:itext:jar:2.1.7" target="uk.co.certait:html-exporter:jar:0.3.4/org.xhtmlrenderer:flying-saucer-pdf:jar:9.0.4/com.lowagie:itext:jar:2.1.7/bouncycastle:bcprov-jdk14:jar:138">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="cre.test:TestC:1.0-SNAPSHOT" target="org.apache.poi:poi-ooxml:jar:3.15">
+              <point x="21.333333333333258" y="-15.0" />
+              <point x="972.8333333333333" y="485.0" />
+              <point x="1798.0" y="485.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.poi:poi-ooxml:jar:3.15/org.apache.poi:poi-ooxml-schemas:jar:3.15" target="org.apache.poi:poi-ooxml:jar:3.15/org.apache.poi:poi-ooxml-schemas:jar:3.15/org.apache.xmlbeans:xmlbeans:jar:2.6.0">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="uk.co.certait:html-exporter:jar:0.3.4/org.apache.odftoolkit:simple-odf:jar:0.7-incubating/org.apache.odftoolkit:odfdom-java:jar:0.8.8-incubating" target="uk.co.certait:html-exporter:jar:0.3.4/org.apache.odftoolkit:simple-odf:jar:0.7-incubating/org.apache.odftoolkit:odfdom-java:jar:0.8.8-incubating/org.apache.odftoolkit:taglets:jar:0.8.8-incubating">
+              <point x="-26.749999999999773" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.poi:poi-ooxml:jar:3.15" target="org.apache.poi:poi-ooxml:jar:3.15/com.github.virtuald:curvesapi:jar:1.04">
+              <point x="-30.666666666666686" y="-15.0" />
+              <point x="1767.3333333333333" y="410.0" />
+              <point x="1661.0" y="410.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="uk.co.certait:html-exporter:jar:0.3.4/org.apache.odftoolkit:simple-odf:jar:0.7-incubating" target="uk.co.certait:html-exporter:jar:0.3.4/org.apache.odftoolkit:simple-odf:jar:0.7-incubating/xerces:xercesImpl:jar:2.9.1">
+              <point x="23.75" y="-15.0" />
+              <point x="136.0" y="295.0" />
+              <point x="162.25" y="295.0" />
+              <point x="23.75" y="15.0" />
+            </edge>
+            <edge source="uk.co.certait:html-exporter:jar:0.3.4" target="uk.co.certait:html-exporter:jar:0.3.4/org.apache.odftoolkit:simple-odf:jar:0.7-incubating">
+              <point x="-50.40000000000009" y="-15.0" />
+              <point x="901.0999999999999" y="410.0" />
+              <point x="112.25" y="410.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.poi:poi-ooxml:jar:3.15" target="org.apache.poi:poi-ooxml:jar:3.15/org.apache.poi:poi:jar:3.15">
+              <point x="30.666666666666686" y="-15.0" />
+              <point x="1828.6666666666667" y="410.0" />
+              <point x="2028.480894308943" y="410.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="cre.test:TestC:1.0-SNAPSHOT" target="org.jsoup:jsoup:jar:1.8.3">
+              <point x="-21.333333333333258" y="-15.0" />
+              <point x="930.1666666666667" y="485.0" />
+              <point x="843.5" y="485.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="uk.co.certait:html-exporter:jar:0.3.4" target="uk.co.certait:html-exporter:jar:0.3.4/org.jsoup:jsoup:jar:1.6.3">
+              <point x="39.200000000000045" y="-15.0" />
+              <point x="990.7" y="400.0" />
+              <point x="1453.5" y="400.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="uk.co.certait:html-exporter:jar:0.3.4" target="uk.co.certait:html-exporter:jar:0.3.4/org.apache.velocity:velocity:jar:1.7">
+              <point x="-5.599999999999909" y="-15.0" />
+              <point x="945.9000000000001" y="370.0" />
+              <point x="884.0" y="370.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="uk.co.certait:html-exporter:jar:0.3.4/org.apache.odftoolkit:simple-odf:jar:0.7-incubating/xerces:xercesImpl:jar:2.9.1" target="uk.co.certait:html-exporter:jar:0.3.4/org.apache.odftoolkit:simple-odf:jar:0.7-incubating/xerces:xercesImpl:jar:2.9.1/xml-apis:xml-apis:jar:1.3.04">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="uk.co.certait:html-exporter:jar:0.3.4/org.xhtmlrenderer:flying-saucer-pdf:jar:9.0.4" target="uk.co.certait:html-exporter:jar:0.3.4/org.xhtmlrenderer:flying-saucer-pdf:jar:9.0.4/com.lowagie:itext:jar:2.1.7">
+              <point x="32.75" y="-15.0" />
+              <point x="672.5" y="295.0" />
+              <point x="698.0" y="295.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="uk.co.certait:html-exporter:jar:0.3.4/org.xhtmlrenderer:flying-saucer-pdf:jar:9.0.4" target="uk.co.certait:html-exporter:jar:0.3.4/org.xhtmlrenderer:flying-saucer-pdf:jar:9.0.4/org.xhtmlrenderer:flying-saucer-core:jar:9.0.4">
+              <point x="-32.75" y="-15.0" />
+              <point x="607.0" y="295.0" />
+              <point x="581.5" y="295.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="uk.co.certait:html-exporter:jar:0.3.4/org.xhtmlrenderer:flying-saucer-pdf:jar:9.0.4/com.lowagie:itext:jar:2.1.7" target="uk.co.certait:html-exporter:jar:0.3.4/org.xhtmlrenderer:flying-saucer-pdf:jar:9.0.4/com.lowagie:itext:jar:2.1.7/bouncycastle:bcmail-jdk14:jar:138">
+              <point x="18.666666666666742" y="-15.0" />
+              <point x="716.6666666666667" y="215.0" />
+              <point x="944.9430894308945" y="215.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="cre.test:TestC:1.0-SNAPSHOT" target="uk.co.certait:html-exporter:jar:0.3.4">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="uk.co.certait:html-exporter:jar:0.3.4/org.apache.velocity:velocity:jar:1.7" target="uk.co.certait:html-exporter:jar:0.3.4/org.apache.velocity:velocity:jar:1.7/commons-lang:commons-lang:jar:2.4">
+              <point x="-18.75" y="-15.0" />
+              <point x="865.25" y="295.0" />
+              <point x="805.5" y="295.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="org.apache.poi:poi-ooxml:jar:3.15/org.apache.poi:poi:jar:3.15" target="org.apache.poi:poi-ooxml:jar:3.15/org.apache.poi:poi:jar:3.15/org.apache.commons:commons-collections4:jar:4.1">
+              <point x="-12.75" y="-15.0" />
+              <point x="2015.730894308943" y="295.0" />
+              <point x="1942.5000000000002" y="295.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="uk.co.certait:html-exporter:jar:0.3.4/org.xhtmlrenderer:flying-saucer-pdf:jar:9.0.4/com.lowagie:itext:jar:2.1.7" target="uk.co.certait:html-exporter:jar:0.3.4/org.xhtmlrenderer:flying-saucer-pdf:jar:9.0.4/com.lowagie:itext:jar:2.1.7/org.bouncycastle:bctsp-jdk14:jar:1.38">
+              <point x="-18.666666666666742" y="-15.0" />
+              <point x="679.3333333333333" y="215.0" />
+              <point x="482.50000000000006" y="215.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="uk.co.certait:html-exporter:jar:0.3.4/com.osbcp:cssparser:jar:1.0.1" target="uk.co.certait:html-exporter:jar:0.3.4/com.osbcp:cssparser:jar:1.0.1/asm:asm:jar:3.1">
+              <point x="0.0" y="-15.0" />
+              <point x="328.3619918699187" y="295.0" />
+              <point x="340.0" y="295.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="uk.co.certait:html-exporter:jar:0.3.4" target="uk.co.certait:html-exporter:jar:0.3.4/org.xhtmlrenderer:flying-saucer-pdf:jar:9.0.4">
+              <point x="-16.799999999999955" y="-15.0" />
+              <point x="934.7" y="380.0" />
+              <point x="639.75" y="380.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="uk.co.certait:html-exporter:jar:0.3.4/org.apache.odftoolkit:simple-odf:jar:0.7-incubating/org.apache.odftoolkit:odfdom-java:jar:0.8.8-incubating" target="uk.co.certait:html-exporter:jar:0.3.4/org.apache.odftoolkit:simple-odf:jar:0.7-incubating/xerces:xercesImpl:jar:2.9.1">
+              <point x="26.750000000000227" y="-15.0" />
+              <point x="89.00000000000023" y="215.0" />
+              <point x="114.75" y="215.0" />
+              <point x="-23.75" y="15.0" />
+            </edge>
+            <edge source="uk.co.certait:html-exporter:jar:0.3.4" target="uk.co.certait:html-exporter:jar:0.3.4/commons-collections:commons-collections:jar:3.2.2">
+              <point x="5.599999999999909" y="-15.0" />
+              <point x="957.0999999999999" y="370.0" />
+              <point x="1019.0" y="370.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="uk.co.certait:html-exporter:jar:0.3.4/commons-beanutils:commons-beanutils:jar:1.8.3" target="uk.co.certait:html-exporter:jar:0.3.4/commons-beanutils:commons-beanutils:jar:1.8.3/commons-logging:commons-logging:jar:1.1.1">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.733027054619704" x="317.0" y="268.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="45" column="45" lean-forward="false" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/office/docx4j/test3.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/office/docx4j/Dct1.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/netspider/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#635#636#0" expanded="true" />
+            <element signature="e#663#664#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>x64-1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>TestC</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: asm:asm:3.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
